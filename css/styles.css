@@ -1,0 +1,179 @@
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #0a97b0;
+  font-family: 'Caveat', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #63b7af;
+  font-size: 2.5rem;
+  line-height: 2;
+}
+
+h3 {
+  color: #1b6ca8;
+}
+
+hr {
+  border-color: #5c2a9d;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  height: 0;
+  margin: 100px auto 100px auto;
+  width: 5%;
+}
+
+/*-------------------------------------------------------------------------Class Selectors-------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------Top Container------------------------------------------------------------------*/
+.top-container {
+  background-color: #dff4f3;
+  padding-top: 100px;
+  position: relative;
+}
+
+.Tag-Game {
+  color: #1b6ca8;
+  font-family: 'Press Start 2P', 'Merriweather', cursive;
+  font-size: 1.25rem;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+.Tag-Web {
+  color: #00005c;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+/*--------------------------------------------------------Top Continer Images--------------------------------------------------------*/
+.Bottom-Cloud {
+  bottom: 300px;
+  left: 650px;
+  position: absolute;
+}
+
+.Top-Cloud {
+  position: absolute;
+  right: 650px;
+  top: 50px;
+}
+
+/*--------------------------------------------------------Top Continer Images--------------------------------------------------------*/
+/*-----------------------------------------------------------------Top Container------------------------------------------------------------------*/
+/*-----------------------------------------------------------------Middle Container------------------------------------------------------------------*/
+.middle-container {
+  padding: 100px 0 100px 0;
+  background-color: #f6f6f6;
+}
+
+.Intro {
+  font-size: 1.75rem;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.game-dev {
+  font-family: 'Press Start 2P', 'Merriweather', cursive;
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+
+.web-dev {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: normal;
+  font-size: 1.8rem;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-description {
+  padding: 50px;
+  font-size: 1.2rem;
+}
+
+.contact-me {
+  line-height: 2;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.email-button {
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  color: #FFFFFF;
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+  font-weight: normal;
+  padding: 7px;
+  background-color: #2FC4B2;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.email-button:hover {
+  background: #12947F;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  text-decoration: none;
+}
+
+/*--------------------------------------------------------Middle Continer Images--------------------------------------------------------*/
+.game-dev-img {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.web-dev-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%
+}
+
+/*--------------------------------------------------------Middle Continer Images--------------------------------------------------------*/
+/*-----------------------------------------------------------------Middle Container------------------------------------------------------------------*/
+/*-----------------------------------------------------------------Bottom Container------------------------------------------------------------------*/
+.bottom-container {
+  background-color: #5fdde5;
+  margin: 0;
+  padding: 30px 0 5px;
+}
+
+.social {
+  margin: 50px auto 50px auto;
+}
+
+.footer-link {
+  color: #5c2a9d;
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+  margin: 0 15px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #f54291;
+}
+.copyright{
+  color: #f6f6f6;
+  fony-size: 0.75rem;
+}
+
+/*-----------------------------------------------------------------Bottom Container------------------------------------------------------------------*/
