@@ -167,11 +167,14 @@ font-size: 1.2rem;
 }
 .contact-me-social{
   font-size: 0.75rem;
+  margin: 12px auto;
+  width: 70%;
+
 }
 .footer-link {
   color: #5c2a9d;
   font-family: 'Caveat', cursive;
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin: 0 15px;
   text-decoration: none;
 }
@@ -184,5 +187,4 @@ font-size: 1.2rem;
   color: #f6f6f6;
   font-size: 0.75rem;
 }
-
 /*-----------------------------------------------------------------Bottom Container------------------------------------------------------------------*/
