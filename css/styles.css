@@ -112,6 +112,11 @@ hr {
   font-weight: bold;
   font-size: 1.2rem;
 }
+.contact-me-info{
+  line-height: 2;
+  font-weight: normal;
+  font-size: 1.2rem;
+}
 
 .email-button {
   -webkit-border-radius: 7px;
