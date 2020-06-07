@@ -19,6 +19,7 @@ h2 {
 
 h3 {
   color: #1b6ca8;
+  font-size: 1.17rem;
 }
 
 hr {
@@ -155,12 +156,18 @@ hr {
   background-color: #5fdde5;
   margin: 0;
   padding: 30px 0 5px;
+  line-height: 2;
 }
 
 .social {
   margin: 50px auto 50px auto;
 }
-
+.contact-me-footer{
+font-size: 1.2rem;
+}
+.contact-me-social{
+  font-size: 0.75rem;
+}
 .footer-link {
   color: #5c2a9d;
   font-family: 'Caveat', cursive;
@@ -168,12 +175,14 @@ hr {
   margin: 0 15px;
   text-decoration: none;
 }
-.footer-link:hover{
+
+.footer-link:hover {
   color: #f54291;
 }
-.copyright{
+
+.copyright {
   color: #f6f6f6;
-  fony-size: 0.75rem;
+  font-size: 0.75rem;
 }
 
 /*-----------------------------------------------------------------Bottom Container------------------------------------------------------------------*/
